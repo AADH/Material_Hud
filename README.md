@@ -23,7 +23,7 @@
 * resource/ui/lobbypanel_mvm.res
 * resource/ui/hudmatchsummary.res
 
-###### info.vtf currently has **Material_Hud-gitgudgithub-patch-1** as the HUD name.  Remember to change it to the root folder directory name.
+####### info.vtf currently has **Material_Hud-gitgudgithub-patch-1** as the HUD name.  Remember to change it to the root folder directory name.
 
 
 
