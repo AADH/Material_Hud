@@ -3,7 +3,7 @@
 ### Added a bunch of MyM update files
 
 **New Files (Bolded means I added the file/s)**
-* resource/ui/badgepanel.res
+* **resource/ui/badgepanel.res**
 * resource/ui/casualrankpanel.res
 * resource/ui/casualwelcomedialog.res
 * resource/ui/competitiveaccessinfo.res
