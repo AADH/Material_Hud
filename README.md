@@ -6,8 +6,8 @@
 * **resource/ui/badgepanel.res**
 * **resource/ui/casualrankpanel.res**
 * **resource/ui/casualwelcomedialog.res**
-* resource/ui/competitiveaccessinfo.res
-* resource/ui/comprankpanel.res
+* **resource/ui/competitiveaccessinfo.res**
+* **resource/ui/comprankpanel.res**
 * resource/ui/lobbycontainerframe_casual.res
 * resource/ui/lobbycontainerframe_comp.res
 * resource/ui/lobbycontainerframe_mvm.res
