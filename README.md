@@ -2,6 +2,7 @@
 
 Added a bunch of MyM update files
 
+**New Files**
 * resource/ui/badgepanel.res
 * resource/ui/casualrankpanel.res
 * resource/ui/casualwelcomedialog.res
