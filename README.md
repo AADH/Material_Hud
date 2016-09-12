@@ -1,3 +1,8 @@
 # Material_Hud
 
-Added a info.vtf to see if it fixes the HUD not working with the Meat your Match update.
+Adding a bunch of MyM update ui files
+
+*resource/ui/badgepanel.res
+*
+*
+*
