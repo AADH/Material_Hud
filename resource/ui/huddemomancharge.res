@@ -1,0 +1,41 @@
+"Resource/UI/HudDemomanCharge.res"
+{
+	"ChargeLabel"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ChargeLabel"
+		"xpos"			"-50"
+		"ypos"			"2"
+		"zpos"			"3"
+		"wide"			"120"
+		"tall"			"14"
+		"pinCorner"				"2"
+		"visible"				"0"
+		"enabled"				"0"
+		"fgcolor_override" "TanDarker"
+		"labelText"				"BOMB"
+		"textAlignment"			"center"
+		"font"					"Lollipop_Regular16"
+	}	
+	"ChargeMeter"
+	{	
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter"
+		"font"			"Default"
+		"xpos"			"0"
+		"ypos"			"13"
+		"zpos"			"2"
+		"wide"			"50"
+		"tall"			"3.5"				
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"bgcolor_override" "BoxLighter"
+		"fgcolor_override" "98 202 255 255"
+		"dulltext"		"0"
+		"brighttext"	"0"
+	}	
+}
+
