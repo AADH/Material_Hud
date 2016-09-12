@@ -1,8 +1,11 @@
 # Material_Hud
 
-Adding a bunch of MyM update ui files
+Added a bunch of MyM update files
 
-*resource/ui/badgepanel.res
+* resource/ui/badgepanel.res
+
 *
+
 *
+
 *
