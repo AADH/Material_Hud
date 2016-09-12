@@ -5,7 +5,7 @@
 **New Files (Bolded means I added the file/s)**
 * **resource/ui/badgepanel.res**
 * **resource/ui/casualrankpanel.res**
-* resource/ui/casualwelcomedialog.res
+* **resource/ui/casualwelcomedialog.res**
 * resource/ui/competitiveaccessinfo.res
 * resource/ui/comprankpanel.res
 * resource/ui/lobbycontainerframe_casual.res
